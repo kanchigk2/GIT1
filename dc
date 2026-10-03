@@ -1,0 +1,60 @@
+[33mcommit 265acb2de84adbaff0bae9b063e2159ef77e7e8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Fri Sep 25 21:41:08 2026 +0530
+
+    file without init command
+
+[33mcommit 3487e54db8ac26353286ad387d3f4adee2c713f6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 23:46:26 2026 +0530
+
+    first file
+
+[33mcommit 60cc13a9bce2b390bd31ccd27d259c57db48cf04[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 23:33:03 2026 +0530
+
+    first file demo2.txt
+
+[33mcommit a5bee903ff9b6ef467a1ff7daca706551d625cf0[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 23:31:02 2026 +0530
+
+    removed unused filr
+
+[33mcommit 23a66d2fdc052c8d19e46e4c188dc59e2c285a15[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 23:16:36 2026 +0530
+
+    first demo file
+
+[33mcommit 89f41dcb1f8d2df74c7d2e2ab87473bbf2609af7[m
+Merge: 9ba3286 af2bb88
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 23:02:57 2026 +0530
+
+    Merge branch 'master' of https://github.com/kanchigk2/GIT1
+
+[33mcommit 9ba32864f52dbc3dc4bff7484d6204343f4470bc[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 22:50:07 2026 +0530
+
+    first changes
+
+[33mcommit 9c4f65f3fd0f4c6eb3b8e4bec2ef712284901521[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 15:54:23 2026 +0530
+
+    a new file is created
+
+[33mcommit 26adaca15c03e4a4b868bea378ac1dffc12141a2[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 14:44:16 2026 +0530
+
+    initial message
+
+[33mcommit af2bb885e988d8e002106ea1753c84c4438214fa[m
+Author: kanchigk2 <kanchi.gk2@gmail.com>
+Date:   Thu Sep 24 12:59:41 2026 +0530
+
+    My intial Commit
